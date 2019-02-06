@@ -1,8 +1,8 @@
 # Написать программу нахождения простых чисел, используя решето Эратосфена. Для каждой из пользовательских функций написать функцию-тест.
 
-def prostie_chisla (n):
+def prostie_chisla(n):
     nums = []
-    for i in range (2,n+1):
+    for i in range(2,n+1):
         for j in nums:
             if i%j==0:
                 break
