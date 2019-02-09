@@ -1,7 +1,8 @@
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test.txt",'r') as file:
-    data = file.read()
-    c= ''.join(data).split()
-    print(c)
-    
-    
+# Создать текстовый файл, записать в него построчно данные, которые вводит пользователь.
+# Окончанием ввода пусть служит пустая строка.
 
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test0.txt",'w') as file:
+    dannie = input()
+    while dannie:
+        file.write(dannie + '\n')
+        dannie = input() 
