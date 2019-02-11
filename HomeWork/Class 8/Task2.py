@@ -14,7 +14,7 @@ def mark(data):
             do_3.append(slovar[k])
     return do_3, sum_ball
 
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test2.txt",'r') as file:
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 8/Test2.txt",'r') as file:
     data = file.readlines()
     do_3, sum_ball = mark (data)
     if len(do_3):

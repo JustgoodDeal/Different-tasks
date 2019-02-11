@@ -17,7 +17,7 @@ def pol(data):
                 names.append((v[0],k))   
     return names
         
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test3.txt",'r') as file:
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 8/Test3.txt",'r') as file:
     data = file.readlines()
     names = pol(data)
 print('Мужчины, учащиеся в группе:')

@@ -1,4 +1,4 @@
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test.txt",'r') as file:
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 8/Test1.txt",'r') as file:
     a = ''.join(file).split()       # получаем список из всех слов в файле
     print (a)
     

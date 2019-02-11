@@ -1,6 +1,6 @@
 # В текстовом файле посчитать количество строк, а также для каждой отдельной строки определить количество в ней символов и слов.
 
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 7/Test1.txt",'r') as file:
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 8/Test1.txt",'r') as file:
     # data = file.readlines()                       либо так
     string_num = 0          # print (len(data))
     for i in file:          # for i in data:        и так
