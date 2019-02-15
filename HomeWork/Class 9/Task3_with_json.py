@@ -5,7 +5,7 @@
 
 import json
 
-with open("/home/ben/Документы/Python_Developer/HomeWork/Class 8/Test3_with_json.json",'r') as file:
+with open("/home/ben/Документы/Python_Developer/HomeWork/Class 9/Test3_with_json.json",'r') as file:
     people = json.load(file)
 
 def men(people):

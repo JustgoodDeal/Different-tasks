@@ -2,7 +2,7 @@
 
 import json
 
-with open ("/home/ben/Документы/Python_Developer/HomeWork/Class 9/Test_Lesson.json",'r') as file:
+with open ("/home/ben/Документы/Python_Developer/HomeWork/Class 10/Files/File_for_Lesson_Task.json",'r') as file:
     data = file.readlines()
     b=[]
     for i in data:
