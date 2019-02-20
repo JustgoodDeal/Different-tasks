@@ -12,6 +12,7 @@ def men(people):
     muj=[]
     for i in range(len(people)):
         for v in people[i].values():
+            print(people[i])
             if v=='male':
                 muj.append (i+1)
                 muj.append (people[i].get('Name'))

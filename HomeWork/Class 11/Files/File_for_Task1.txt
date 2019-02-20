@@ -1,0 +1,4 @@
+Oleg    Olegov  male    20
+Katya   Katina  female  30
+Eduard  Eduardov    male    22
+Dmitryi Dmitriev    male    33
