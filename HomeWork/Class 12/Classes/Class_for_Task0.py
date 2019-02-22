@@ -1,10 +1,19 @@
 class Elevator:
-    floor = 1
-    def __init__(self, count_up = 0, name = None):
+    def __init__(self, count_up = 0, floor = 1, name = None):
         self.count_up = count_up
         self.name = name
+        self.floor = floor
+    
     def __repr__(self):
         return 'После сложения/вычитания экземпляров класса значение атрибута count_up равняется: {}'.format(self.count_up)
+    @property
+    def floor(self):
+        return self._floor
+    @floor.setter
+    def floor(self, value):
+        if value > 9 or value < 1:
+            raise ValueError('Лифт может находиться только на этажах с 1-го по 9-й')
+        self._floor =  value
     def lift (self,value):
         if 0 < value < 10:
             if value > self.floor:
@@ -71,6 +80,6 @@ class Elevator:
         return '{}: количество поднятий - {}, процент от общего количества поднятий всех лифтов - {}'.format(self.name,self.count_up,round(procent,1))    
     @classmethod
     def decor (cls, func):
-        def wrapper(cls, *args):
-            return 'Общее количество поднятий всех лифтов: ' + str(func(cls,*args))
+        def wrapper(*args):
+            return 'Общее количество поднятий всех лифтов: ' + str(func(*args))
         return wrapper
