@@ -19,9 +19,11 @@ class Vector:
 
 a = Vector(5,9)
 b = Vector (5,0)
+d = Vector(5,9)
 c = a*b
 print(c.x,c.y)
-
+e = a+b+d
+print(e.x,e.y)
 
 
 
