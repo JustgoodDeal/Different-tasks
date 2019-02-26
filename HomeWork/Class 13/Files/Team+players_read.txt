@@ -1,0 +1,22 @@
+Name            Surname         Player ID       Team           Team ID
+
+Alan            Ananidze        01              Spartak        1
+Nick            Basta           02              Spartak        1
+Nikolay         Abramov         03              Spartak        1
+Anatoli         Akimov          04              Spartak        1
+Dmitri          Alenichev       05              Spartak        1
+Oleg            Long            06              Roma           2
+Rod             Laver           07              Roma           2
+Konstantinos    Manolas         08              Roma           2
+Alessandro      Florenzi        09              Roma           2
+Aleksandar      Kolarov         010             Roma           2
+Dmitry          Grudnov         011             Real           3 
+Tom             Kruz            012             Real           3
+Arthur          Johnson         013             Real           3
+Manuel          Prast           014             Real           3
+Jose            Berraondo       015             Real           3
+Alphonse        Areola          016             PSG            4
+Gianluigi       Buffon          017             PSG            4
+Thomas          Meunier         018             PSG            4
+Thilo           Kehrer          019             PSG            4
+Presnel         Kimpembe        020             PSG            4 

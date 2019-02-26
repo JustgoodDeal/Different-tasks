@@ -1,0 +1,65 @@
+PSG id:4
+
+Alphonse Areola id:016
+Gianluigi Buffon id:017
+Presnel Kimpembe id:020
+Thilo Kehrer id:019
+Thomas Meunier id:018
+
+Real id:3
+
+Arthur Johnson id:013
+Dmitry Grudnov id:011
+Jose Berraondo id:015
+Manuel Prast id:014
+Tom Kruz id:012
+
+Roma id:2
+
+Aleksandar Kolarov id:010
+Alessandro Florenzi id:09
+Konstantinos Manolas id:08
+Oleg Long id:06
+Rod Laver id:07
+
+Spartak id:1
+
+Alan Ananidze id:01
+Anatoli Akimov id:04
+Dmitri Alenichev id:05
+Nick Basta id:02
+Nikolay Abramov id:03
+
+
+2018-05-28 Spartak - Roma 2:1 Moskow id:A1
+
+Alan Ananidze
+Aleksandar Kolarov
+Alessandro Florenzi
+Dmitri Alenichev
+Nick Basta
+Nikolay Abramov
+
+2018-12-03 PSG - Real 0:1 Paris id:A3
+
+Alphonse Areola
+Dmitry Grudnov
+Gianluigi Buffon
+Jose Berraondo
+Thomas Meunier
+Tom Kruz
+
+2018-02-16 Real - Roma 3:2 Madrid id:A4
+
+Aleksandar Kolarov
+Dmitry Grudnov
+Jose Berraondo
+Konstantinos Manolas
+Manuel Prast
+Rod Laver
+Tom Kruz
+
+2018-01-12 Roma - Spartak 5:2 Rome id:A2
+
+Alan Ananidze
+Dmitri Alenichev

@@ -1,0 +1,10 @@
+Team 1          Team 2          Result      Date            Location        Match ID
+
+Spartak         Roma            2_1         2018.05.28      Moskow          A1
+Dmitri Alenichev,Alan Ananidze,Nick Basta,Aleksandar Kolarov,Alessandro Florenzi,Tom Kruz,Nikolay Abramov
+Roma            Spartak         5_2         2018.01.12      Rome            A2
+Dmitri Alenichev,Alan Ananidze
+PSG             Real            0_1         2018.12.03      Paris           A3
+Alphonse Areola,Gianluigi Buffon,Thomas Meunier,Dmitry Grudnov,Tom Kruz,Jose Berraondo
+Real            Roma            3_2         2018.02.16      Madrid          A4
+Dmitry Grudnov,Tom Kruz,Jose Berraondo,Manuel Prast,Rod Laver,Konstantinos Manolas,Aleksandar Kolarov
